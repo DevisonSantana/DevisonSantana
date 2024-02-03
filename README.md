@@ -9,6 +9,17 @@ DevisonSantana/DevisonSantana is a ✨ special ✨ repository because its `READM
 You can click the Preview link to take a look at your changes.
 --->
 
+<div 
+  align="center"
+  style="display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;">
+
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="">
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt"">
+</div>
+
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=DevisonSantana&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DevisonSantana&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
